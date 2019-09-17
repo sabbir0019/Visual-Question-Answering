@@ -3,3 +3,6 @@ Visual Question Answering (VQA) is a new dataset containing open-ended questions
 
 
 This is a Deep Learning project by Mahbub Hasan and Sabbir Ahmed.
+
+
+It is incomplete...till now
