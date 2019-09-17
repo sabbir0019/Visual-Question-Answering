@@ -1,4 +1,4 @@
-# It is downloaded from keras.application for modification ,tuning or tweaking if needed....(by sake of experiment)
+# It is downloaded from keras.application for modification ,tuning or tweaking if needed....(for sake of experiment)
 """VGG16 model for Keras.
 
 # Reference
